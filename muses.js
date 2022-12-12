@@ -1,3 +1,3 @@
 function peel(stickerId) {
-  document.getElementById("stickerId").style = "display:none";
+  document.getElementById(stickerId).style.display = "none";
 }
