@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+
+  flex-flow: column wrap;
+
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.musicndesc {
+  background: #fcffcc;
+  width: 88%;
+  height: 250px;
+  margin: 10px;
+  line-height: 150px;
+  color: red;
+  padding: 16px;
+  font-size: 1.875rem;
+  text-align: center;
+}
+
+.pagedesc {
+  text-align: center;
+  font-size: 5.625rem;
+  background-color: #fcffcc;
+  max-width: fit-content;
+  margin: auto;
+  padding-left: 14px;
+  padding-right: 16px;
+  margin-bottom: 1.7rem;
+  border-radius: 7px;
+}
+
+.pdsubhead i {
+  margin: auto;
+  text-align: center;
+  background-color: #fcffcc;
+  border-radius: 5px;
+}

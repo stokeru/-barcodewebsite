@@ -1,0 +1,64 @@
+#mediaicons {
+  background-color: #fcffcc;
+  border-radius: 6px;
+  padding: 0.1rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.0001rem;
+  height: fit-content;
+  width: fit-content;
+  margin-left: auto;
+}
+
+#mediaicons > a {
+  text-decoration: none;
+}
+
+.mediabrick {
+  background-color: #fefbf0;
+  color: red;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding: 1.8rem;
+  padding-top: 0.01rem;
+  padding-bottom: 0.01rem;
+  border-radius: 2rem;
+  border: dotted red;
+  font-kerning: auto;
+  width: 50%;
+}
+
+.header {
+  background-color: #fcffcc;
+  font-size: 4.5rem;
+  max-width: fit-content;
+  margin: auto;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+  padding-bottom: 0%;
+  margin-top: 1.6rem;
+  border-radius: 6px;
+}
+
+.pagedesc {
+  text-align: center;
+  font-size: 5.625rem;
+  background-color: #fcffcc;
+  max-width: fit-content;
+  margin: auto;
+  padding-left: 14px;
+  padding-right: 16px;
+  margin-bottom: 1.7rem;
+  border-radius: 7px;
+}
+
+.subdesc {
+  text-align: center;
+  background-color: #fcffcc;
+  font-size: 1.25rem;
+  max-width: fit-content;
+  margin: auto;
+  margin-top: 0.5rem;
+  padding-left: 0.4rem;
+  padding-right: 0.4rem;
+  border-radius: 4px;
+}

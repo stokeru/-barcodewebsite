@@ -1,0 +1,59 @@
+header {
+  text-align: center;
+  font-size: 5.625rem;
+  background-color: #fcffcc;
+  max-width: fit-content;
+  margin: auto;
+  padding-left: 14px;
+  padding-right: 16px;
+  margin-bottom: 1.7rem;
+  border-radius: 7px;
+}
+
+.descheader {
+  font-size: 1.9rem;
+  text-align: left;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 0)
+  );
+  max-width: fit-content;
+  margin: 1.875rem;
+  padding-bottom: 24px;
+  padding: 1.6rem;
+  border-radius: 10px;
+}
+
+.descheaderbr {
+  font-size: 1.9rem;
+  text-align: right;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 1),
+    rgba(252, 255, 204, 0)
+  );
+  max-width: fit-content;
+  margin: 1.875rem;
+  margin-left: auto;
+  padding-bottom: 24px;
+  padding: 1.6rem;
+  padding-top: 0.8rem;
+  border-radius: 10px;
+}
+
+.grid-containerp {
+  background-color: #fcffcc;
+  border: double red;
+  border-radius: 1.5rem;
+  border-width: 12px;
+  padding: 4rem;
+  text-overflow: unset;
+  margin: auto;
+  margin-left: 26rem;
+  margin-right: 26rem;
+}

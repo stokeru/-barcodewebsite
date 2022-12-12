@@ -1,0 +1,77 @@
+
+NOTES:
+
+
+1.DARK MODE
+
+- Make a dark mode and light mode function 
+- no drop down menu when mousing over 
+- just a half moon thing 
+    * OR a light bulb with lines radiating out to show that thw site is in bright mode 
+- on click change it to dark mode 
+- on second click change back to original 'old tee shirt' colour
+
+
+### make the darkmode theme a pale black, NOT COMPLETELY BLACK , and the text a paler cyan
+
+PURPOUSE: Late night viewing. Don't wnat people to blind themselves and associate pain with the website.
+
+2.GOLDEN TICKET
+
+- a special golden ticket given out once a month to a random user of the site
+- the ticket comes in the form of a pop-up on the screen *MAKE SURE IT DOESN'T LOOK LIKE SCAM ETC* 
+- NO PRINTING WHATSOEVER OF THE TICKET. MUST NOT BE TANGEBLE 
+- The ticket will have information that can be used to access tangeble ticket winnings.
+- MAKE TICKET UNBOTTABLE/UNSPAMMABLE
+
+ -| TICKET IDEAS |-
+- make the ticket a link to a secret page. 
+- create a QR code for each ticket. 
+    *That QR will take the scanner to a tmeporary page thats accessible only for the month that the ticket is valid.
+- *meta ticket* show a one time use code for the user and have them send the code to our instagram for a link to a secret page with the winnings.
+(only one user at a time on that website/page to combat password leaks. Scan the ip and make sure no other ip that month can use the website UNLESS admin)
+
+2a.TICKET PAGE DESIGN
+
+- the page will be a black background with a golden ticket in the middle containing all of the items/privileges you get with the ticket that month.
+- the ticket will be about the size of a large chocolate bar on a normal 1920 x 1080 size screen.
+- ticket will be gold and have black text
+- black rectangular border around the text
+    -| USE GOLDEN TICKET REFERENCE IMAGES |-
+
+PURPOUSE: Fan interactions, talking point, promotes good image for the band, legitimises.
+
+2b.TICKET WINNINGS 
+
+- EXCLUSIVE MERCHANDISE 1/1 BARCODE tees *feature winner of golden ticket as a tiny golden ticket spray paint-stencilled onto the nape, inside bottom right of tee, so fundametally little hidden away areas 
+- free tickets to future gig OR next upcoming BARCODE gig
+- sit in on a rehearsal or practise session? *fits the them of touring the chocolate factory
+- a little doodle from one of the members
+
+
+3.MARKETING
+
+- sponsored ads on instagram linking and showing website with music on background etc
+- stories on instagram
+- make content for patreon and make it known somehow
+- stickers and flyers in Bristol around town centre
+
+4.CONINTUOUS PAGE
+
+- put all pages on the same sheet and have a long scroll,
+  with the buttons leading to them with a scroll animation.
+- Find a way for the picture to work on a continuous page.
+
+5.MOUSEOVER EVENT ON MUSES SECTION
+
+- display red and cream barcode text lines on 
+  top of the band names and reveal the names upon mouseover.
+  keep them on display post mouseover? or only for a short
+  time? Or for an extended duration that slowly covers it again
+- METHOD: display a cover over each name. on mouse over remove.
+  on mouseoff recover to make it so the mouse must stay there.
+  so immediate mouseoff hides the name again.
+- STYLING: quick reveal animation, like peeling
+  off a barcode sticker from a purchase. maybe make the stickers
+  100% larger than the name on the page, and give each sticker
+  a slight offset. If poss leave some sticker remenance around the name.
